@@ -1,0 +1,28 @@
+{
+    "permsenabled": "true",
+    "Fullidperm": ["327494443559026688", "104376018222972928"],
+    "noidperm": ["UserID1"],
+    "disabledcommads": ["Command1"],
+    "globalcommands": ["Command1", "Command2", "Command3"],
+    "permgroups": {
+        "groupnames": ["GroupName1"],
+        "group1": {
+            "ids": ["RoleID1", "RoleID2"],
+            "commands": [
+                "COMMAND1",
+                "COMMAND2"
+            ]
+        }
+    },
+    "userpermgroups": {
+        "groupnames": ["GROUP1"],
+        "GROUP1": {
+            "ids": ["UserID1", "UserID2"],
+            "commands": [
+                "COMMAND1",
+                "COMMAND2",
+                "COMMAND3"
+            ]
+        }
+    }
+}
