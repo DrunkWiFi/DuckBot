@@ -1,6 +1,6 @@
 {
     "permsenabled": "true",
-    "Fullidperm": ["327494443559026688", "104376018222972928"],
+    "Fullidperm": ["327494443559026688", "104376018222972928", "233288246757556224"],
     "noidperm": ["UserID1"],
     "disabledcommads": ["Command1"],
     "globalcommands": ["Command1", "Command2", "Command3"],

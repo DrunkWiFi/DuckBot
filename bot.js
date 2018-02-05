@@ -10,6 +10,7 @@ const perm = require("./perms/perms.js");
 
 client.on("ready", () => {
   console.log("DuckBot Version " + version + " Started! GODSPEED!");
+  console.log("Duck Duck Goose :D")
 });
 
 fs.readdir("./events/", (err, files) => {
